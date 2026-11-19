@@ -1,6 +1,6 @@
 module nexwiki
 
-go 1.27.3
+go 1.27.4
 
 require (
 	github.com/blevesearch/bleve/v2 v2.6.1
